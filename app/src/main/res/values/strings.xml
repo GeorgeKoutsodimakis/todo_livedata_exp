@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TODO_LiveData</string>
+    <string name="delete">Delete</string>
+</resources>
